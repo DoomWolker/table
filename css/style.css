@@ -1,0 +1,23 @@
+/* font-family: 'Yaldevi', sans-serif; */
+
+body {
+  background: url(https://oir.mobi/uploads/posts/2021-03/1616964580_41-p-fon-dlya-saita-42.jpg);
+  background-size: cover;
+}
+
+.main_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Yaldevi", sans-serif;
+  text-align: center;
+}
+
+.name_table {
+  font-size: 20px;
+}
+
+.table {
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: black 2px 0px 50px 10px;
+}
